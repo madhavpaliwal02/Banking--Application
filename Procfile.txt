@@ -1,0 +1,1 @@
+heroku war:deploy target/Banking-Application-1.0-SNAPSHOT.war --app banking--app
